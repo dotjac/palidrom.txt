@@ -1,0 +1,5 @@
+Step 1: create a variable to store the palidrom word
+step 2: go through each of the charaters in the word
+Step 3: compare the first character to the rest character
+Step 4: If the first character is equal to the last character repeat step 3, then step 4, step 5
+Step 5: if all the first and last character are thesame return is palidrom else return is NOT palidrom 
